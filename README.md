@@ -10,3 +10,10 @@
 - [우주선착륙2](https://swexpertacademy.com/main/talk/solvingClub/problemView.do?solveclubId=AZgv3D6qGtzHBIT9&contestProbId=AXSHJueab1oDFAQT&probBoxId=AZgv3D6qGt3HBIT9&type=USER&problemBoxTitle=IM%EB%8C%80%EB%B9%84%EB%AC%B8%EC%A0%9C&problemBoxCnt=15)
 
 - [오목판정](https://swexpertacademy.com/main/talk/solvingClub/problemView.do?solveclubId=AZgv3D6qGtzHBIT9&contestProbId=AXaSUPYqPYMDFASQ&probBoxId=AZgv3D6qGt3HBIT9&type=PROBLEM&problemBoxTitle=IM%EB%8C%80%EB%B9%84%EB%AC%B8%EC%A0%9C&problemBoxCnt=15)
+
+- [파리퇴치](https://swexpertacademy.com/main/talk/solvingClub/problemView.do?solveclubId=AZgv3D6qGtzHBIT9&contestProbId=AV5PzOCKAigDFAUq&probBoxId=AZgv3D6qGt3HBIT9&type=PROBLEM&problemBoxTitle=IM%EB%8C%80%EB%B9%84%EB%AC%B8%EC%A0%9C&problemBoxCnt=15)
+
+- [어디에_단어가_들어갈_수_있을까](https://swexpertacademy.com/main/talk/solvingClub/problemView.do?solveclubId=AZgv3D6qGtzHBIT9&contestProbId=AV5PuPq6AaQDFAUq&probBoxId=AZgv3D6qGt3HBIT9&type=PROBLEM&problemBoxTitle=IM%EB%8C%80%EB%B9%84%EB%AC%B8%EC%A0%9C&problemBoxCnt=15)
+
+- [스도쿠검증](https://swexpertacademy.com/main/talk/solvingClub/problemView.do?solveclubId=AZgv3D6qGtzHBIT9&contestProbId=AV5Psz16AYEDFAUq&probBoxId=AZgv3D6qGt3HBIT9&type=PROBLEM&problemBoxTitle=IM%EB%8C%80%EB%B9%84%EB%AC%B8%EC%A0%9C&problemBoxCnt=15)
+
