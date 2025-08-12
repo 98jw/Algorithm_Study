@@ -17,3 +17,13 @@
 
 - [스도쿠검증](https://swexpertacademy.com/main/talk/solvingClub/problemView.do?solveclubId=AZgv3D6qGtzHBIT9&contestProbId=AV5Psz16AYEDFAUq&probBoxId=AZgv3D6qGt3HBIT9&type=PROBLEM&problemBoxTitle=IM%EB%8C%80%EB%B9%84%EB%AC%B8%EC%A0%9C&problemBoxCnt=15)
 
+- [증가하는사탕수열](https://swexpertacademy.com/main/talk/solvingClub/problemView.do?solveclubId=AZgv3D6qGtzHBIT9&contestProbId=AY4XhKTKU0IDFARM&probBoxId=AZgv3D6qGt3HBIT9&type=PROBLEM&problemBoxTitle=IM%EB%8C%80%EB%B9%84%EB%AC%B8%EC%A0%9C&problemBoxCnt=15)
+
+- [영준이의_카드카운팅](https://swexpertacademy.com/main/talk/solvingClub/problemView.do?solveclubId=AZgv3D6qGtzHBIT9&contestProbId=AWIsY84KEPMDFAWN&probBoxId=AZgv3D6qGt3HBIT9&type=PROBLEM&problemBoxTitle=IM%EB%8C%80%EB%B9%84%EB%AC%B8%EC%A0%9C&problemBoxCnt=15)
+
+- [삼성시의_버스노선](https://swexpertacademy.com/main/talk/solvingClub/problemView.do?solveclubId=AZgv3D6qGtzHBIT9&contestProbId=AWczm7QaACgDFAWn&probBoxId=AZgv3D6qGt3HBIT9&type=PROBLEM&problemBoxTitle=IM%EB%8C%80%EB%B9%84%EB%AC%B8%EC%A0%9C&problemBoxCnt=15)
+
+- [정곤이의_단조증가하는수](https://swexpertacademy.com/main/talk/solvingClub/problemView.do?solveclubId=AZgv3D6qGtzHBIT9&contestProbId=AWcPjEuKAFgDFAU4&probBoxId=AZgv3D6qGt3HBIT9&type=PROBLEM&problemBoxTitle=IM%EB%8C%80%EB%B9%84%EB%AC%B8%EC%A0%9C&problemBoxCnt=15)
+
+- [현주의_상자바꾸기](https://swexpertacademy.com/main/talk/solvingClub/problemView.do?solveclubId=AZgv3D6qGtzHBIT9&contestProbId=AWYygN36Qn8DFAVm&probBoxId=AZgv3D6qGt3HBIT9&type=PROBLEM&problemBoxTitle=IM%EB%8C%80%EB%B9%84%EB%AC%B8%EC%A0%9C&problemBoxCnt=15)
+
