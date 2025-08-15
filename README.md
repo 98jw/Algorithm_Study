@@ -27,3 +27,5 @@
 
 - [현주의_상자바꾸기](https://swexpertacademy.com/main/talk/solvingClub/problemView.do?solveclubId=AZgv3D6qGtzHBIT9&contestProbId=AWYygN36Qn8DFAVm&probBoxId=AZgv3D6qGt3HBIT9&type=PROBLEM&problemBoxTitle=IM%EB%8C%80%EB%B9%84%EB%AC%B8%EC%A0%9C&problemBoxCnt=15)
 
+- [Magnetic](https://swexpertacademy.com/main/talk/solvingClub/problemView.do?solveclubId=AZgv3D6qGtzHBIT9&contestProbId=AV14hwZqABsCFAYD&probBoxId=AZgv3D6qGt3HBIT9&type=PROBLEM&problemBoxTitle=IM%EB%8C%80%EB%B9%84%EB%AC%B8%EC%A0%9C&problemBoxCnt=15)
+
