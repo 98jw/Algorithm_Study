@@ -29,3 +29,4 @@
 
 - [Magnetic](https://swexpertacademy.com/main/talk/solvingClub/problemView.do?solveclubId=AZgv3D6qGtzHBIT9&contestProbId=AV14hwZqABsCFAYD&probBoxId=AZgv3D6qGt3HBIT9&type=PROBLEM&problemBoxTitle=IM%EB%8C%80%EB%B9%84%EB%AC%B8%EC%A0%9C&problemBoxCnt=15)
 
+- [정식이의_은행업무](https://swexpertacademy.com/main/talk/solvingClub/problemView.do?solveclubId=AZgv3D6qGtzHBIT9&contestProbId=AWMeRLz6kC0DFAXd&probBoxId=AZgv3D6qGt3HBIT9&type=PROBLEM&problemBoxTitle=IM%EB%8C%80%EB%B9%84%EB%AC%B8%EC%A0%9C&problemBoxCnt=15)
